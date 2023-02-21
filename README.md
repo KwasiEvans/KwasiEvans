@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KwasiEvans
-- 👀 I’m interested in Ghana
-- 🌱 I’m currently learning flutter dart
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Tech Related Staff
+- 🌱 I’m currently working on MERN STACK, PHP, Flutter dart
+- 💞️ I’m looking to collaborate on MERN STACK, PHP, Flutter dart
 - 📫 How to reach me 
 - WhatsApp: +233 5976 08469
 
