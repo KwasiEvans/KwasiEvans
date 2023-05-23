@@ -5,7 +5,7 @@ I'm a junoir full-stack web and mobile developer from Ghana, Accra. I graduated 
 
 [![Instagram Badge](https://img.shields.io/badge/-@ykwasi-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/ykwasi124/](https://www.instagram.com/ykwasi124/))](https://www.instagram.com/ykwasi124/)
 [![Gmail Badge](https://img.shields.io/badge/-evansow2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evansow2002@gmail.com)](mailto:evansow2002@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
+[![Linkedin Badge](https://img.shields.io/badge/-kwasicodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evans-owusu-344ba3251/)](https://www.linkedin.com/in/evans-owusu-344ba3251/)
 [![Telegram Badge](https://img.shields.io/badge/-@kwasiEvans-0088CC?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100077814638090"Contact on Telegram")
 
 Like My Work?
