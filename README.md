@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kwasi Evans</h1>
 <h3 align="center">A passionate Juniour Full-Stack Developer with expertise in Flutter and Laravel from Ghana</h3>
 
-<img align="right" alt="coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU">
+<img align="right" alt="coding" width="100" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwasievans&label=Profile%20views&color=0e75b6&style=flat" alt="kwasievans" /> </p>
 
