@@ -3,8 +3,7 @@
 <h4> FLutter and Laravel Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 I'm a junoir full-stack web and mobile developer from Ghana, Accra. I graduated in Computer Science and Information Technology at Ghana Communication Technology, Accra Tesano. I like building new stuff and working  in  team.
 
-
-[![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prajwal.iar/)](https://instagram.com/prajwal.iar)
+[![Instagram Badge](https://img.shields.io/badge/-@ykwasi-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/ykwasi124/](https://www.instagram.com/ykwasi124/))](https://www.instagram.com/ykwasi124/)
 [![Gmail Badge](https://img.shields.io/badge/-evansow2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evansow2002@gmail.com)](mailto:evansow2002@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
 [![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100077814638090"Contact on Telegram")
