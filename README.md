@@ -10,7 +10,7 @@ I'm a junoir full-stack web and mobile developer from Ghana, Accra. I graduated 
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/prajwalrai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://bmc.link/evansow2001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ### You can find my stuff here :leaves:
 
