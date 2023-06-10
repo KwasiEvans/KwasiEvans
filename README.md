@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwasiEvans&hide=TeX&layout=compact)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Prajwal100&color=green)
+![Visitor Badge](https://komarev.com/ghpvc/?username=KwasiEvans0&color=green)
 
 ### Languages and Tools
 
