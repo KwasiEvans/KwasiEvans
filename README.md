@@ -1,8 +1,9 @@
 ## Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
-<h4> FLutter and Laravel Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I'm a junoir full-stack web and mobile developer from Ghana, Accra. I graduated in Computer Science and Information Technology at Ghana Communication Technology, Accra Tesano. I like building new stuff and working  in  team.
-
+<h4>Tech Company Specializing in Full-Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
+We are a dynamic tech company based in Accra, Ghana, specializing in web and mobile development solutions. Our team of skilled professionals brings a wealth of experience and expertise to the table. With a strong foundation in Computer Science and Information Technology, gained from the prestigious Ghana Communication Technology in Accra Tesano, we are dedicated to creating innovative solutions.
+At our core, we are passionate about building cutting-edge technology and working collaboratively as a team. We thrive on challenges, constantly pushing the boundaries of what's possible. Our mission is to leverage technology to solve real-world problems and deliver exceptional results.
+Join us on our journey to shape the future of technology. Together, we'll create solutions that make a meaningful impact.
 [![Instagram Badge](https://img.shields.io/badge/-@ykwasi-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/ykwasi124/](https://www.instagram.com/ykwasi124/))](https://www.instagram.com/ykwasi124/)
 [![Gmail Badge](https://img.shields.io/badge/-evansow2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evansow2002@gmail.com)](mailto:evansow2002@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@kwasiEvans-0088CC?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100077814638090"Contact on Telegram")
